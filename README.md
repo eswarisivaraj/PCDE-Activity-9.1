@@ -1,2 +1,2 @@
 # PCDE-Activity-9.1
-for 9.1 Activity
+Repository for Activities 9.1 and 9.2
